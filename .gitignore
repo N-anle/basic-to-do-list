@@ -1,0 +1,40 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+db.sqlite3
+
+# Compiled files
+*.out
+*.class
+*.o
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Version control metadata
+.git/
+
+# Temporary files
+*.tmp
+*.swp
+*~
