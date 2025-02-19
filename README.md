@@ -2,6 +2,8 @@
 
 A clean, responsive to-do list web application with a Flask backend that allows users to create, read, update, and delete tasks.
 
+Can be accessed from: https://devnanle-to-do-list.netlify.app/
+
 ![image](https://github.com/user-attachments/assets/b247be45-5131-42f7-8eb0-babfa9564cc5)
 
 
