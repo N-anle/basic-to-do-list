@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const taskList = document.getElementById("taskList");
     
     // Base URL for your Flask backend
-    const API_URL = "http://localhost:5000";
+    const API_URL = "https://todolist-backend-h33r.onrender.com";
 
     // Fetch and display all tasks on page load
     function fetchTasks() {
